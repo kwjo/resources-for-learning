@@ -5,6 +5,8 @@
 - [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000006334/9780137504589)
 - [Seeing Theory - A visual introduction to probability and statistics.](https://seeing-theory.brown.edu/basic-probability/index.html)
 - [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+- [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- [Statistical Inference - Casella](https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036?srsltid=AfmBOoosrExvt1EiMc6o-PBLuFUEpoiVr1iZ2P0hUMp1IvJ4ynQVdhtc)
 
 ## Linear Algebra
 - [Linear Algebra Done Right](https://linear.axler.net/)
@@ -17,6 +19,7 @@
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 ## Others
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
