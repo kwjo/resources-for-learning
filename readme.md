@@ -7,6 +7,8 @@
 - [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - [Statistical Inference - Casella](https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036?srsltid=AfmBOoosrExvt1EiMc6o-PBLuFUEpoiVr1iZ2P0hUMp1IvJ4ynQVdhtc)
+- [Statistical Rethinking](https://xcelab.net/rm/)
+- [Statistical Rethinking - Python](https://fehiepsi.github.io/rethinking-numpyro/)
 
 ## Linear Algebra
 - [Linear Algebra Done Right](https://linear.axler.net/)
@@ -20,7 +22,7 @@
 - [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-
+- [Data Science from Scratch](https://learning.oreilly.com/library/view/data-science-from/9781492041122/)
 ## Others
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   
