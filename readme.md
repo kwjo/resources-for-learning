@@ -1,12 +1,13 @@
 ## Probability and Statistics
 - [Stat 110: Probability](https://projects.iq.harvard.edu/stat110/youtube)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 - [MITx: Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
 - [A First Course in Probability](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-probability-a/P200000006334/9780137504589)
 - [Seeing Theory - A visual introduction to probability and statistics.](https://seeing-theory.brown.edu/basic-probability/index.html)
 - [Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
-- [Statistical Inference - Casella](https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036?srsltid=AfmBOoosrExvt1EiMc6o-PBLuFUEpoiVr1iZ2P0hUMp1IvJ4ynQVdhtc)
+- [Statistical Inference - Casella](https://www.routledge.com/Statistical-Inference/[**Casella**](https://www.statlearning.com/)-Berger/p/book/9781032593036?srsltid=AfmBOoosrExvt1EiMc6o-PBLuFUEpoiVr1iZ2P0hUMp1IvJ4ynQVdhtc)
 - [Statistical Rethinking](https://xcelab.net/rm/)
 - [Statistical Rethinking - Python](https://fehiepsi.github.io/rethinking-numpyro/)
 
